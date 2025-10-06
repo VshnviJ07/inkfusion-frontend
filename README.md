@@ -1,5 +1,5 @@
 # InkFusion
-
+<img src="" alt="Inkfusion" width="600">
 InkFusion is a **MERN-based notepad application** with authentication, allowing users to create, edit, and manage notes efficiently. It is fully responsive and secure.
 
 ---

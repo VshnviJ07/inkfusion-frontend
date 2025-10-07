@@ -75,14 +75,7 @@ PUT /api/notes/updatenote/:id - Update a note
 
 DELETE /api/notes/deletenote/:id - Delete a note
 
-🖼 Screenshots
 
-You can add screenshots of your app in a folder called screenshots in the repo. Example:
-
-![Home Page](screenshots/home.png)
-![Login Page](screenshots/login.png)
-![Signup Page](screenshots/signup.png)
-![Notes Page](screenshots/notes.png)
 
 👩‍💻 Author
 
@@ -90,4 +83,4 @@ Vaishnavi Jaiswal
 ## 👩‍💻 Author
 **Vaishnavi Jaiswal**  
 [LinkedIn](https://www.linkedin.com/in/vaishnavijaiswal0710) | [GitHub](https://github.com/Vshnvi07)
-
+backend repositiory:- https://github.com/VshnviJ07/inkfusion-backend
